@@ -1,5 +1,8 @@
 # Dell Inspiron 5477 Camera Module Windows Hello Enclosure
 
+<img width="983" height="534" alt="image" src="https://github.com/user-attachments/assets/92d82cb4-9e28-4cdb-9beb-7baf08335f1b" />
+
+
 This is a 3D printable enclosure designed for the salvaged camera module from a Dell Inspiron 5477 All-in-One PC. The project aims to DIY this excellent camera (including infrared functionality) into a standalone USB-C camera that supports Windows Hello.
 This repository only provides the 3D model files for the enclosure and does not include detailed circuit wiring tutorials.
 
